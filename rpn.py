@@ -17,7 +17,7 @@ def calculate(arg):
                 result = val1 - val2
 
             stack.append(result)
-    
+
     return stack[0]
 
 def main():
